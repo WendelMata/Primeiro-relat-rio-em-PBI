@@ -1,2 +1,2 @@
 # Primeiro-relat-rio-em-PBI
-Relatório de Vendas (primeiro relatório no PBI)
+análise dataset kaggle diabetes (primeiro relatório no PBI)
